@@ -50,3 +50,20 @@ select:focus {
     max-height: 100% !important;
     border-radius: 5px;
 }
+
+@media (max-width: 767px) {
+    .botao-exportar {
+        height: 50px;
+        width: 330px;
+    }
+}
+
+/* @media (min-width: 768px) and (orientation: landscape) {}
+
+@media (min-width: 768px) and (max-width: 1024px) {}
+
+@media (min-width: 1025px) {}
+
+@media (min-width: 1025px) {}
+
+@media (min-width: 1280px) {} */
