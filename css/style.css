@@ -9,7 +9,7 @@
 }
 
 :root {
-    --main-color: #12E983;
+    --main-color: #201B2C;
     /* --main-color: #03BD8D; */
     --body-color: #FFFFFF;
     --primary-color: #97F675;
@@ -58,12 +58,10 @@ select:focus {
     }
 }
 
-/* @media (min-width: 768px) and (orientation: landscape) {}
+.container {
+    background-color: #5326be !important;
+}
 
-@media (min-width: 768px) and (max-width: 1024px) {}
-
-@media (min-width: 1025px) {}
-
-@media (min-width: 1025px) {}
-
-@media (min-width: 1280px) {} */
+.dashboard-class {
+    color: #ffffff !important;
+}
